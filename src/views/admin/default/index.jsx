@@ -90,7 +90,7 @@ const Dashboard = () => {
           <PieChartCard />
           <AthletesTable />
           <TrainersTable />
-          <SponsorsTable/>
+          {/* <SponsorsTable/> */}
         </div>
       </div>
     </div>
